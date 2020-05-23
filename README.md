@@ -8,6 +8,9 @@ To view the project, use https://www.shadertoy.com/new
 ### Basic Ray Tracing
 
 Basic ray tracing. One ray is casted per pixel.
+The scene consists of a silvery horizontal plane, a silvery vertical plane (in the background), a
+bouncing golden yellow ball, and a revolving shiny green ball. There are two point light sources. The
+image above was produced using 2 levels of ray tracing (recursion level = 2).
 
 ## Task 2 - Distributed Ray Tracing
 <img src="https://github.com/Futuramistic/RayTracing/blob/master/Images/task2.PNG" style="vertical-align:middle" width="396" height="222"/>
